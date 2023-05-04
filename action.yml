@@ -1,4 +1,4 @@
-name: 'Create PR to other branches, on commits to a branch '
+name: 'Create cherry pick commit'
 description: 'Commits, pushes a new PR branch and creates PR for the commits.'
 author: '@himadrisingh'
 inputs:
